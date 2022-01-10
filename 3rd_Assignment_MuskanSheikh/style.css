@@ -1,0 +1,12 @@
+body{
+    background-color: rgba(30, 82, 83, 0.637);
+    text-align:center;
+}
+.detail{
+    margin:90px;
+    padding:60px;
+}  
+.detail p{
+    font-size:20px;
+    line-height:30px;
+} 
